@@ -39,3 +39,11 @@ bundled `entry.png`, so every run produces byte-identical output.
 ## License
 
 MIT — see `LICENSE`.
+
+## v2 — editorial illustration edition
+
+The current `entry.png` is the v2 artwork: a dramatic editorial illustration —
+a cracked, glowing globe surrounded by the day's five big scenes (the empty
+COP31 hall in Antalya, the Kyiv rescue, the AI selloff arrow smashing a chip,
+the US Capitol after the 258-seat result, and a tanker ablaze at Hormuz) —
+topped with the date masthead and a one-line summary of the day's headlines.
